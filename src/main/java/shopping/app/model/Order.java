@@ -29,9 +29,4 @@ public class Order {
     private boolean isPaid;
     @ManyToOne
     private User user;
-
-    public Order(List<ProductOrder> productOrders, User user) {
-        this.productOrders = productOrders;
-        this.user = user;
-    }
 }
