@@ -27,6 +27,7 @@ Model - Presentation layer
 - Spring BOOT
 - Spring Security
 - Hibernate
+- Mockito
 
 # How to run a project?
 1. Clone this project
